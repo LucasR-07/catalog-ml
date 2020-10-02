@@ -23,7 +23,7 @@ function Navbar({ getProductsResults, setLoading}) {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <a href="/" className="navbar-brand">
+        <a href="/catalog-ml" className="navbar-brand">
           MercadoLibre Catalogo
         </a>
 
